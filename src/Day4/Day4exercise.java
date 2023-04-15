@@ -6,6 +6,7 @@ public class Day4exercise {
 	public static void main(String[] args) {
 		
 		System.out.println(2*2);
+		System.out.println(2222);
 		
 	}
 
